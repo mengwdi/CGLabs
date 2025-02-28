@@ -8,13 +8,15 @@
  */
 function createSphere(radius, hlines, vlines, color) {
    // code goes here
+   var marerial = new THREE0SphereGeo
 }
 
 /*
  * Create earth sphere (radius=2,hlines=44,vlines=44,color=green)
  * Create moon sphere (radius=1,hlines=32,vlines=32,color=white)
  */
-
+var earth = createSphere(4,44,44,"#00FF00");
+var moon = createSphere(2,32,32,"C0
 
 /* Define the add shapes function
  * - add the earth to the scene
